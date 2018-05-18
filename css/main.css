@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.panel {
+    height: 100vh;
+    display: inline-flex;
+}
+
+#panel-01 {
+    width: 50%;
+    background-color: skyblue;
+}
+
+#panel-02 {
+    width: 50%;
+    background-color: #FEF386;
+}
